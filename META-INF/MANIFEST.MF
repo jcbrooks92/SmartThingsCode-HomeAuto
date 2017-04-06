@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Executable: smartapps/jcbrooks-homeautomation/homeauto-firstapp.src
+
+Name: homeauto-firstapp.groovy
+SHA1-Digest: 2e8ec49a8a28edd3f65b44ef060a41d48c04c7ba
+
+Name: i18n/messages.properties
+SHA1-Digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
